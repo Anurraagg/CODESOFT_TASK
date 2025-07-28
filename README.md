@@ -1,4 +1,4 @@
-# CODESOFT_TASK 
+# CODSOFT_TASK 
 # 🛠️ Internship Project - Python Applications
 
 This repository contains three mini-projects built using Python during the internship. These projects showcase basic command-line tools that perform useful tasks.
