@@ -67,14 +67,6 @@ A secure password generator that creates random and strong passwords based on us
 
 
 
-## 📁 Project Structure
-
-
-
-
- 
-
-
 ## 📌 Note
 These are beginner-level projects ideal for learning basic Python programming, command-line interfaces, and logic building.
 
